@@ -1,6 +1,7 @@
 # Number Validator Using Regular Expressions
 
 
+\
 
 ## Overview
 
@@ -85,27 +86,9 @@ number-validator/
 
 ---
 
-## How to Run
+##
 
-### 1. Clone the Repository
-
-
-git clone https://github.com/your-username/number-validator.git
-
-
-### 2. Open the Project Directory
-
-
-cd number-validator
-
-
-### 3. Run the Program
-
-
-python number_validator.py
-
-
-
+---
 
 ## Program Workflow
 
@@ -119,7 +102,7 @@ python number_validator.py
    * Displays error message
    * Requests input again
 
-
+---
 
 ## Learning Objectives
 
@@ -131,7 +114,7 @@ This project demonstrates:
 * Loops and conditional statements
 * Clean code structuring
 
-
+---
 
 ## Future Improvements
 
@@ -141,11 +124,13 @@ This project demonstrates:
 * Create web-based version using HTML/CSS/JavaScript
 * Store validated numbers in a database
 
-
+---
 
 ## Author
 
 Subhradeep Sardar
 BCA Student
 
+---
 
+##
